@@ -1,0 +1,18 @@
+{
+  "name": "webos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "opnwbflw.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node opnwbflw.js",
+    "login": "node lgnwbflw.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "puppeteer": "^21.7.0"
+  }
+}
